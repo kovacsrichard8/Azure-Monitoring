@@ -1,4 +1,4 @@
-# Microsoft Azure projects
+# Microsoft Azure Monitoring
 
 ## Komplex monitoring környezet Windows és Linux virtuális gépekhez
 
